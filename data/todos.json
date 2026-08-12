@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": "69c9d45d9474",
+      "text": "Bethel: поповнювати data/song_signatures.json — переглянути служіння з 0–2 розпізнаними піснями і додати приспіви пісень, яких бракує",
+      "done": false
+    },
+    {
+      "id": "6016dacf7c98",
+      "text": "Elevation: раз на тиждень запускати fetch_elevation_playlist.py — знімок ротації «Sunday Set List» і диф зі змінами",
+      "done": false
+    },
+    {
+      "id": "f9a7ba958c67",
+      "text": "Ecclesia: дістати внутрішні списки команди прославлення (написати їхній команді) — автоматики немає, канал не архівує служіння",
+      "done": false
+    },
+    {
+      "id": "27809f33c87b",
+      "text": "Planetshakers: періодично перевіряти, чи полагодили facebook-екстрактор yt-dlp (оновити yt-dlp і спробувати відео з facebook.com/planetshakers/videos) — тоді підключити captions-метод",
+      "done": false
+    },
+    {
+      "id": "199eead336f4",
+      "text": "Вирішити, кого додати з кандидатів на captions-метод: Life.Church / Hillsong Sydney / Lakewood / VOUS (один запис у churches.json)",
+      "done": false
+    },
+    {
+      "id": "fd430dc1923a",
+      "text": "Перевірити канали Hillsong Ukraine і Favor Church — чи архівують служіння, чи можна парсити",
+      "done": false
+    },
+    {
+      "id": "cd2f197a7cb2",
+      "text": "D.Youth: перевірити дубль 21.06 і 28.06.2026 (однакові сетлісти — недатована чернетка лягла на 21.06) і видалити зайвий",
+      "done": false
+    },
+    {
+      "id": "7e1a97fcd229",
+      "text": "D.Youth: після нових неділь — повторний експорт Telegram і import_telegram.py (16.08 підтягне відео після ефіру)",
+      "done": false
+    }
+  ]
+}

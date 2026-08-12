@@ -1,0 +1,1874 @@
+[
+  {
+    "id": "song_0000",
+    "title": "A word from Paul Baloche",
+    "normalized_title": "a word from paul baloche",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0001",
+    "title": "Above All",
+    "normalized_title": "above all",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0002",
+    "title": "Agnus Dei",
+    "normalized_title": "agnus dei",
+    "artist": null,
+    "churches": [
+      "alfa",
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0003",
+    "title": "Alfa Check",
+    "normalized_title": "alfa check",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0004",
+    "title": "Alive",
+    "normalized_title": "alive",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0005",
+    "title": "Alive Again",
+    "normalized_title": "alive again",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0006",
+    "title": "All Hail King Jesus",
+    "normalized_title": "all hail king jesus",
+    "artist": null,
+    "churches": [
+      "alfa",
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0007",
+    "title": "Alpha and Omega",
+    "normalized_title": "alpha and omega",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0008",
+    "title": "Always",
+    "normalized_title": "always",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0009",
+    "title": "Always Will Be",
+    "normalized_title": "always will be",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0013",
+    "title": "Angus Dei",
+    "normalized_title": "angus dei",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0014",
+    "title": "Anthem Of The Lamb",
+    "normalized_title": "anthem of the lamb",
+    "artist": null,
+    "churches": [
+      "bethel"
+    ]
+  },
+  {
+    "id": "song_0015",
+    "title": "Battle Belongs",
+    "normalized_title": "battle belongs",
+    "artist": null,
+    "churches": [
+      "bethel"
+    ]
+  },
+  {
+    "id": "song_0016",
+    "title": "Be Magnified",
+    "normalized_title": "be magnified",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0017",
+    "title": "Beauty",
+    "normalized_title": "beauty",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0018",
+    "title": "Bless God",
+    "normalized_title": "bless god",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0019",
+    "title": "Bless The Lord",
+    "normalized_title": "bless the lord",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0020",
+    "title": "Blood of Christ",
+    "normalized_title": "blood of christ",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0021",
+    "title": "Breathe",
+    "normalized_title": "breathe",
+    "artist": null,
+    "churches": [
+      "alfa",
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0022",
+    "title": "Build My Life",
+    "normalized_title": "build my life",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0025",
+    "title": "Can't Help But Praise",
+    "normalized_title": "cant help but praise",
+    "artist": null,
+    "churches": [
+      "alfa",
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0026",
+    "title": "Center",
+    "normalized_title": "center",
+    "artist": null,
+    "churches": [
+      "alfa",
+      "dyouth",
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0027",
+    "title": "Changed",
+    "normalized_title": "changed",
+    "artist": null,
+    "churches": [
+      "bethel"
+    ]
+  },
+  {
+    "id": "song_0028",
+    "title": "Chi's Story",
+    "normalized_title": "chis story",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0029",
+    "title": "Christine D'Clario book promo",
+    "normalized_title": "christine dclario book promo",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0030",
+    "title": "Christmas day",
+    "normalized_title": "christmas day",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0031",
+    "title": "Cornerstone",
+    "normalized_title": "cornerstone",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0032",
+    "title": "Covered by the blood",
+    "normalized_title": "covered by the blood",
+    "artist": null,
+    "churches": [
+      "dyouth",
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0033",
+    "title": "Covered by the Blood (Jeanne Williams)",
+    "normalized_title": "covered by the blood (jeanne williams)",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0034",
+    "title": "Crowns Down (Lily Murillo)",
+    "normalized_title": "crowns down (lily murillo)",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0035",
+    "title": "Draw Me Close (Austin Benjamin)",
+    "normalized_title": "draw me close (austin benjamin)",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0036",
+    "title": "Drawing closer",
+    "normalized_title": "drawing closer",
+    "artist": "Planetshakers",
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0037",
+    "title": "Egypt",
+    "normalized_title": "egypt",
+    "artist": null,
+    "churches": [
+      "bethel"
+    ]
+  },
+  {
+    "id": "song_0038",
+    "title": "Elohim",
+    "normalized_title": "elohim",
+    "artist": null,
+    "churches": [
+      "alfa",
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0039",
+    "title": "Encouragement",
+    "normalized_title": "encouragement",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0040",
+    "title": "Endless Alleluia",
+    "normalized_title": "endless alleluia",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0041",
+    "title": "Eyes on you",
+    "normalized_title": "eyes on you",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0042",
+    "title": "Faith and Wonder",
+    "normalized_title": "faith and wonder",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0043",
+    "title": "Feet Of Jesus",
+    "normalized_title": "feet of jesus",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0044",
+    "title": "Feet Of Jesus || Прославлення",
+    "normalized_title": "feet of jesus || прославлення",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0045",
+    "title": "Firm Foundation (Austin Benjamin)",
+    "normalized_title": "firm foundation (austin benjamin)",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0046",
+    "title": "Firm Foundation (He Won't)",
+    "normalized_title": "firm foundation (he wont)",
+    "artist": null,
+    "churches": [
+      "bethel",
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0047",
+    "title": "Forever & Amen",
+    "normalized_title": "forever & amen",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0048",
+    "title": "Forever and Amen",
+    "normalized_title": "forever and amen",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0049",
+    "title": "Forever YHWH",
+    "normalized_title": "forever yhwh",
+    "artist": null,
+    "churches": [
+      "alfa",
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0050",
+    "title": "Free",
+    "normalized_title": "free",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0051",
+    "title": "Give me Jesus",
+    "normalized_title": "give me jesus",
+    "artist": null,
+    "churches": [
+      "alfa",
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0052",
+    "title": "Glorious",
+    "normalized_title": "glorious",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0053",
+    "title": "Glorious Day",
+    "normalized_title": "glorious day",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0054",
+    "title": "God Is So Good",
+    "normalized_title": "god is so good",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0055",
+    "title": "God Of Revival",
+    "normalized_title": "god of revival",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0056",
+    "title": "God of the promise",
+    "normalized_title": "god of the promise",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0057",
+    "title": "Gonna Praise You",
+    "normalized_title": "gonna praise you",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0058",
+    "title": "Good Good Father",
+    "normalized_title": "good good father",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0059",
+    "title": "Good Plans",
+    "normalized_title": "good plans",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0060",
+    "title": "Goodness of God",
+    "normalized_title": "goodness of god",
+    "artist": null,
+    "churches": [
+      "bethel",
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0062",
+    "title": "Gratitude",
+    "normalized_title": "gratitude",
+    "artist": null,
+    "churches": [
+      "dyouth",
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0063",
+    "title": "Great are you lord",
+    "normalized_title": "great are you lord",
+    "artist": null,
+    "churches": [
+      "dyouth",
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0064",
+    "title": "Here For You",
+    "normalized_title": "here for you",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0065",
+    "title": "Here I Am To Worship",
+    "normalized_title": "here i am to worship",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0066",
+    "title": "Here in Your Presence",
+    "normalized_title": "here in your presence",
+    "artist": null,
+    "churches": [
+      "alfa",
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0067",
+    "title": "Here's to the one",
+    "normalized_title": "heres to the one",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0068",
+    "title": "His name is Jesus",
+    "normalized_title": "his name is jesus",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0069",
+    "title": "Holy Forever",
+    "normalized_title": "holy forever",
+    "artist": null,
+    "churches": [
+      "alfa",
+      "dyouth",
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0071",
+    "title": "Holy Spirit",
+    "normalized_title": "holy spirit",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0073",
+    "title": "Home",
+    "normalized_title": "home",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0074",
+    "title": "Honor of Graduates",
+    "normalized_title": "honor of graduates",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0075",
+    "title": "Hosanna",
+    "normalized_title": "hosanna",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0076",
+    "title": "How Great Is Our God",
+    "normalized_title": "how great is our god",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0077",
+    "title": "How Majestic",
+    "normalized_title": "how majestic",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0078",
+    "title": "I Could Sing Of Your Love Forever",
+    "normalized_title": "i could sing of your love forever",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0079",
+    "title": "I exalt thee",
+    "normalized_title": "i exalt thee",
+    "artist": null,
+    "churches": [
+      "dyouth",
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0080",
+    "title": "I Got Saved",
+    "normalized_title": "i got saved",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0081",
+    "title": "I Know a Name",
+    "normalized_title": "i know a name",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0082",
+    "title": "I Know That I Know",
+    "normalized_title": "i know that i know",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0083",
+    "title": "I Love Your Presence",
+    "normalized_title": "i love your presence",
+    "artist": null,
+    "churches": [
+      "bethel"
+    ]
+  },
+  {
+    "id": "song_0084",
+    "title": "I Speak Jesus",
+    "normalized_title": "i speak jesus",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0085",
+    "title": "I Surrender",
+    "normalized_title": "i surrender",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0086",
+    "title": "I Surrender All (Austin Benjamin)",
+    "normalized_title": "i surrender all (austin benjamin)",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0087",
+    "title": "I Thank God",
+    "normalized_title": "i thank god",
+    "artist": null,
+    "churches": [
+      "bethel"
+    ]
+  },
+  {
+    "id": "song_0088",
+    "title": "I Will Exalt",
+    "normalized_title": "i will exalt",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0089",
+    "title": "I Will Exalt || Прославлення",
+    "normalized_title": "i will exalt || прославлення",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0090",
+    "title": "i witnessed it",
+    "normalized_title": "i witnessed it",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0091",
+    "title": "In the river",
+    "normalized_title": "in the river",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0092",
+    "title": "Inhabit",
+    "normalized_title": "inhabit",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0093",
+    "title": "I've Witnessed",
+    "normalized_title": "ive witnessed",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0094",
+    "title": "I've Witnessed It",
+    "normalized_title": "ive witnessed it",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0095",
+    "title": "I've Witnessed || Прославлення",
+    "normalized_title": "ive witnessed || прославлення",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0096",
+    "title": "jesus be the name",
+    "normalized_title": "jesus be the name",
+    "artist": null,
+    "churches": [
+      "dyouth",
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0097",
+    "title": "Jesus Paid It All",
+    "normalized_title": "jesus paid it all",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0098",
+    "title": "Jesus We Love You",
+    "normalized_title": "jesus we love you",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0099",
+    "title": "Jesus We Love You || Прославлення",
+    "normalized_title": "jesus we love you || прославлення",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0100",
+    "title": "Joy (What The World Calls Foolish)",
+    "normalized_title": "joy (what the world calls foolish)",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0101",
+    "title": "Just That Good",
+    "normalized_title": "just that good",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0102",
+    "title": "Just want you",
+    "normalized_title": "just want you",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0103",
+    "title": "Just want you to know",
+    "normalized_title": "just want you to know",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0104",
+    "title": "king jesus",
+    "normalized_title": "king jesus",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0105",
+    "title": "King of Kings",
+    "normalized_title": "king of kings",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0106",
+    "title": "King of My Heart",
+    "normalized_title": "king of my heart",
+    "artist": null,
+    "churches": [
+      "bethel",
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0107",
+    "title": "Known by You",
+    "normalized_title": "known by you",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0108",
+    "title": "Let Go",
+    "normalized_title": "let go",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0109",
+    "title": "Living Hope",
+    "normalized_title": "living hope",
+    "artist": null,
+    "churches": [
+      "alfa",
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0110",
+    "title": "Love Of God",
+    "normalized_title": "love of god",
+    "artist": null,
+    "churches": [
+      "bethel"
+    ]
+  },
+  {
+    "id": "song_0111",
+    "title": "Made For More",
+    "normalized_title": "made for more",
+    "artist": null,
+    "churches": [
+      "bethel"
+    ]
+  },
+  {
+    "id": "song_0112",
+    "title": "Made Me",
+    "normalized_title": "made me",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0113",
+    "title": "Make me brave",
+    "normalized_title": "make me brave",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0114",
+    "title": "Marriage Night 2026",
+    "normalized_title": "marriage night 2026",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0115",
+    "title": "Men's Night Promo",
+    "normalized_title": "mens night promo",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0116",
+    "title": "Mighty Deliverer (Hosanna) || Прославлення",
+    "normalized_title": "mighty deliverer (hosanna) || прославлення",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0117",
+    "title": "My Hallelujah",
+    "normalized_title": "my hallelujah",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0118",
+    "title": "My King Forever",
+    "normalized_title": "my king forever",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0119",
+    "title": "Never let you go",
+    "normalized_title": "never let you go",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0120",
+    "title": "Never Walk Alone",
+    "normalized_title": "never walk alone",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0121",
+    "title": "New Album From Gateway Worship & Easter Video",
+    "normalized_title": "new album from gateway worship & easter video",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0122",
+    "title": "No One Like The Lord",
+    "normalized_title": "no one like the lord",
+    "artist": null,
+    "churches": [
+      "alfa",
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0123",
+    "title": "No One Like The Lord 2",
+    "normalized_title": "no one like the lord 2",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0124",
+    "title": "No other God - Ліра || Прославлення",
+    "normalized_title": "no other god - ліра || прославлення",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0125",
+    "title": "None like you",
+    "normalized_title": "none like you",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0126",
+    "title": "Nothing But The Blood",
+    "normalized_title": "nothing but the blood",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0127",
+    "title": "O Come to the Altar",
+    "normalized_title": "o come to the altar",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0128",
+    "title": "O Come To The Altar (Austin Benjamin)",
+    "normalized_title": "o come to the altar (austin benjamin)",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0129",
+    "title": "O Praise The Name",
+    "normalized_title": "o praise the name",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0130",
+    "title": "O Praise The Name (Anástasis)",
+    "normalized_title": "o praise the name (anástasis)",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0131",
+    "title": "Omnipotent",
+    "normalized_title": "omnipotent",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0132",
+    "title": "On and On",
+    "normalized_title": "on and on",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0133",
+    "title": "On the cross",
+    "normalized_title": "on the cross",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0134",
+    "title": "Only wanna sing",
+    "normalized_title": "only wanna sing",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0135",
+    "title": "Open the Eyes of My Heart",
+    "normalized_title": "open the eyes of my heart",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0136",
+    "title": "Opening",
+    "normalized_title": "opening",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0137",
+    "title": "Our father",
+    "normalized_title": "our father",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0138",
+    "title": "Over&Over",
+    "normalized_title": "over&over",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0139",
+    "title": "Oversight",
+    "normalized_title": "oversight",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0140",
+    "title": "Peace",
+    "normalized_title": "peace",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0141",
+    "title": "Peace in place",
+    "normalized_title": "peace in place",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0142",
+    "title": "Praise",
+    "normalized_title": "praise",
+    "artist": null,
+    "churches": [
+      "dyouth",
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0143",
+    "title": "Pure",
+    "normalized_title": "pure",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0144",
+    "title": "Pursue",
+    "normalized_title": "pursue",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0145",
+    "title": "Pursue / All I Need Is You",
+    "normalized_title": "pursue / all i need is you",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0146",
+    "title": "Pursue/All I Need Is You",
+    "normalized_title": "pursue/all i need is you",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0147",
+    "title": "Reckless love",
+    "normalized_title": "reckless love",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0148",
+    "title": "Relentless",
+    "normalized_title": "relentless",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0149",
+    "title": "Rest On Us",
+    "normalized_title": "rest on us",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0150",
+    "title": "Run to the Father",
+    "normalized_title": "run to the father",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0151",
+    "title": "Salvation Call",
+    "normalized_title": "salvation call",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0152",
+    "title": "Same God",
+    "normalized_title": "same god",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0153",
+    "title": "Sing of Your Love",
+    "normalized_title": "sing of your love",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0154",
+    "title": "Sinking Deep",
+    "normalized_title": "sinking deep",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0155",
+    "title": "So Will I (100 Billion X)",
+    "normalized_title": "so will i (100 billion x)",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0156",
+    "title": "Something Good",
+    "normalized_title": "something good",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0157",
+    "title": "Son of Suffering",
+    "normalized_title": "son of suffering",
+    "artist": null,
+    "churches": [
+      "alfa",
+      "bethel",
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0158",
+    "title": "Stand In Your Love",
+    "normalized_title": "stand in your love",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0159",
+    "title": "Surrounded",
+    "normalized_title": "surrounded",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0160",
+    "title": "Surrounded by holy",
+    "normalized_title": "surrounded by holy",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0161",
+    "title": "Thank You",
+    "normalized_title": "thank you",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0162",
+    "title": "Thank you Jesus for blood",
+    "normalized_title": "thank you jesus for blood",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0163",
+    "title": "Thank You Jesus For The Blood",
+    "normalized_title": "thank you jesus for the blood",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0164",
+    "title": "The Blessing",
+    "normalized_title": "the blessing",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0165",
+    "title": "The blood",
+    "normalized_title": "the blood",
+    "artist": null,
+    "churches": [
+      "dyouth",
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0166",
+    "title": "The Blood (Austin Benjamin)",
+    "normalized_title": "the blood (austin benjamin)",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0167",
+    "title": "The Joy",
+    "normalized_title": "the joy",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0168",
+    "title": "The Kings University Promotion",
+    "normalized_title": "the kings university promotion",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0169",
+    "title": "The Lamb",
+    "normalized_title": "the lamb",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0170",
+    "title": "The Lord Almighty",
+    "normalized_title": "the lord almighty",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0171",
+    "title": "The Lord Is Here",
+    "normalized_title": "the lord is here",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0172",
+    "title": "The Power Of An Invite",
+    "normalized_title": "the power of an invite",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0173",
+    "title": "This is living",
+    "normalized_title": "this is living",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0174",
+    "title": "This is living now",
+    "normalized_title": "this is living now",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0175",
+    "title": "Till the walls",
+    "normalized_title": "till the walls",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0176",
+    "title": "Touch Of Heaven",
+    "normalized_title": "touch of heaven",
+    "artist": null,
+    "churches": [
+      "alfa",
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0177",
+    "title": "Tremble",
+    "normalized_title": "tremble",
+    "artist": null,
+    "churches": [
+      "bethel"
+    ]
+  },
+  {
+    "id": "song_0178",
+    "title": "Turn Your Eyes Upon Jesus",
+    "normalized_title": "turn your eyes upon jesus",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0179",
+    "title": "Unified In Praise",
+    "normalized_title": "unified in praise",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0180",
+    "title": "Unto The Lamb",
+    "normalized_title": "unto the lamb",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0181",
+    "title": "Victory Is Yours",
+    "normalized_title": "victory is yours",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0182",
+    "title": "Wake",
+    "normalized_title": "wake",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0183",
+    "title": "Washed",
+    "normalized_title": "washed",
+    "artist": null,
+    "churches": [
+      "dyouth",
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0184",
+    "title": "Way maker",
+    "normalized_title": "way maker",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0185",
+    "title": "We Praise You",
+    "normalized_title": "we praise you",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0186",
+    "title": "What A Beautiful Name",
+    "normalized_title": "what a beautiful name",
+    "artist": null,
+    "churches": [
+      "bethel",
+      "dyouth",
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0187",
+    "title": "What A God",
+    "normalized_title": "what a god",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0188",
+    "title": "What A God || Прославлення",
+    "normalized_title": "what a god || прославлення",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0189",
+    "title": "What a Worth Name",
+    "normalized_title": "what a worth name",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0190",
+    "title": "What a Worthy Name",
+    "normalized_title": "what a worthy name",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0191",
+    "title": "When Wind Meets Fire",
+    "normalized_title": "when wind meets fire",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0192",
+    "title": "Who Else",
+    "normalized_title": "who else",
+    "artist": null,
+    "churches": [
+      "alfa",
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0193",
+    "title": "Who Is Like You Lord",
+    "normalized_title": "who is like you lord",
+    "artist": null,
+    "churches": [
+      "bethel"
+    ]
+  },
+  {
+    "id": "song_0194",
+    "title": "Worhty Of It All",
+    "normalized_title": "worhty of it all",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0195",
+    "title": "Worthy",
+    "normalized_title": "worthy",
+    "artist": null,
+    "churches": [
+      "alfa",
+      "dyouth",
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0196",
+    "title": "Worthy Is The Lamb / Agnus Dei",
+    "normalized_title": "worthy is the lamb / agnus dei",
+    "artist": null,
+    "churches": [
+      "bethel"
+    ]
+  },
+  {
+    "id": "song_0197",
+    "title": "Worthy of It All",
+    "normalized_title": "worthy of it all",
+    "artist": null,
+    "churches": [
+      "alfa",
+      "bethel",
+      "dyouth",
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0198",
+    "title": "Yes and Amen",
+    "normalized_title": "yes and amen",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0199",
+    "title": "You Alone Are Worthy",
+    "normalized_title": "you alone are worthy",
+    "artist": null,
+    "churches": [
+      "bethel"
+    ]
+  },
+  {
+    "id": "song_0200",
+    "title": "You and You Alone",
+    "normalized_title": "you and you alone",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0201",
+    "title": "You make me brave",
+    "normalized_title": "you make me brave",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0202",
+    "title": "Your Name",
+    "normalized_title": "your name",
+    "artist": null,
+    "churches": [
+      "gateway"
+    ]
+  },
+  {
+    "id": "song_0203",
+    "title": "вставка Agnus Dei",
+    "normalized_title": "вставка agnus dei",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0204",
+    "title": "вставка Waiting Here For You || Прославлення",
+    "normalized_title": "вставка waiting here for you || прославлення",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0205",
+    "title": "відгук і знайоство - активність - Нікіта, Сергій",
+    "normalized_title": "відгук і знайоство - активність - нікіта, сергій",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0206",
+    "title": "відкриття",
+    "normalized_title": "відкриття",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0207",
+    "title": "вірю я що нема таких як ти",
+    "normalized_title": "вірю я що нема таких як ти",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0208",
+    "title": "Небо відкрите",
+    "normalized_title": "небо відкрите",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0209",
+    "title": "омитий я",
+    "normalized_title": "омитий я",
+    "artist": null,
+    "churches": [
+      "dyouth"
+    ]
+  },
+  {
+    "id": "song_0210",
+    "title": "Привітання з днем народження церкви!",
+    "normalized_title": "привітання з днем народження церкви!",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  },
+  {
+    "id": "song_0211",
+    "title": "Хто хоче стать місіонером?",
+    "normalized_title": "хто хоче стать місіонером?",
+    "artist": null,
+    "churches": [
+      "alfa"
+    ]
+  }
+]

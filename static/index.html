@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="uk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Worship Tracker</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-mark">♪</span>
+    <div>
+      <h1>Worship Tracker</h1>
+      <p class="subtitle">Сетлісти та метрики пісень прославлення</p>
+    </div>
+  </div>
+  <div class="topbar-actions">
+    <button id="btn-add" class="btn btn-primary">+ Додати служіння</button>
+  </div>
+</header>
+
+<nav id="tabs" class="tabs"></nav>
+
+<main id="view"></main>
+
+<div id="tooltip" class="tooltip" hidden></div>
+
+<dialog id="modal-add">
+  <form id="form-add" method="dialog">
+    <h2>Додати служіння</h2>
+    <label>Церква
+      <select name="church" id="add-church"></select>
+    </label>
+    <label>Дата
+      <input type="date" name="date" required>
+    </label>
+    <label>Назва / тема (необовʼязково)
+      <input type="text" name="title" placeholder="Недільне служіння">
+    </label>
+    <label>Пісні — по одній в рядку, лідер після «—»
+      <textarea name="songs" rows="8" placeholder="Оживи — Марія&#10;Goodness of God&#10;Свят — Андрій"></textarea>
+    </label>
+    <div class="form-actions">
+      <button type="button" class="btn" id="btn-cancel">Скасувати</button>
+      <button type="submit" class="btn btn-primary">Зберегти</button>
+    </div>
+  </form>
+</dialog>
+
+<script src="/static/app.js"></script>
+</body>
+</html>

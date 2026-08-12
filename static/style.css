@@ -1,0 +1,333 @@
+:root {
+  color-scheme: light;
+  --page: #f9f9f7;
+  --surface: #fcfcfb;
+  --ink: #0b0b0b;
+  --ink-2: #52514e;
+  --muted: #898781;
+  --grid: #e1e0d9;
+  --baseline: #c3c2b7;
+  --border: rgba(11, 11, 11, 0.10);
+  --series-1: #2a78d6;
+  --series-1-soft: #cde2fb;
+  --danger: #d03b3b;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --page: #0d0d0d;
+    --surface: #1a1a19;
+    --ink: #ffffff;
+    --ink-2: #c3c2b7;
+    --muted: #898781;
+    --grid: #2c2c2a;
+    --baseline: #383835;
+    --border: rgba(255, 255, 255, 0.10);
+    --series-1: #3987e5;
+    --series-1-soft: #104281;
+  }
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--page);
+  color: var(--ink);
+  font: 15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 20px 28px 12px;
+  flex-wrap: wrap;
+}
+.brand { display: flex; align-items: center; gap: 14px; }
+.brand-mark {
+  width: 42px; height: 42px;
+  display: grid; place-items: center;
+  background: var(--series-1);
+  color: #fff;
+  border-radius: 12px;
+  font-size: 22px;
+}
+h1 { margin: 0; font-size: 20px; }
+.subtitle { margin: 0; color: var(--ink-2); font-size: 13px; }
+
+.tabs {
+  display: flex;
+  gap: 6px;
+  padding: 8px 28px 16px;
+  flex-wrap: wrap;
+}
+.tab {
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--ink-2);
+  padding: 7px 14px;
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 14px;
+}
+.tab.active {
+  background: var(--series-1);
+  border-color: var(--series-1);
+  color: #fff;
+}
+.tab .count { opacity: 0.7; font-size: 12px; margin-left: 4px; }
+
+main { padding: 0 28px 48px; max-width: 1200px; }
+
+.period-bar {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
+}
+.period-label { color: var(--ink-2); font-size: 13.5px; margin-right: 4px; }
+.period-input {
+  background: var(--surface); color: var(--ink);
+  border: 1px solid var(--border); border-radius: 999px;
+  padding: 5px 12px; font: inherit; font-size: 13.5px;
+}
+.period-note { color: var(--muted); font-size: 12.5px; margin-left: 6px; }
+
+.tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  gap: 12px;
+  margin-bottom: 20px;
+}
+.tile {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 14px 16px;
+}
+.tile .value { font-size: 28px; font-weight: 650; }
+.tile .label { color: var(--ink-2); font-size: 13px; }
+.tile .hint { color: var(--muted); font-size: 12px; }
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 18px 20px;
+  margin-bottom: 20px;
+}
+.card h2 { margin: 0 0 4px; font-size: 16px; }
+.card .card-note { color: var(--muted); font-size: 12.5px; margin: 0 0 14px; }
+
+.grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+@media (max-width: 900px) { .grid-2 { grid-template-columns: 1fr; } }
+
+/* Горизонтальний бар-чарт топ-пісень */
+.barlist { display: grid; grid-template-columns: minmax(140px, 240px) 1fr; gap: 6px 12px; align-items: center; }
+.barlist .song-name {
+  font-size: 13.5px;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  text-align: right;
+  color: var(--ink);
+}
+.barlist .bar-track { display: flex; align-items: center; gap: 8px; min-height: 22px; }
+.barlist .bar {
+  height: 14px;
+  background: var(--series-1);
+  border-radius: 0 4px 4px 0;
+  min-width: 3px;
+  cursor: default;
+}
+.barlist .bar-value { font-size: 12.5px; color: var(--ink-2); font-variant-numeric: tabular-nums; }
+
+/* Колонки по місяцях */
+.colchart { display: flex; align-items: flex-end; gap: 10px; height: 150px; padding-top: 8px; border-bottom: 1px solid var(--baseline); }
+.colchart .col { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; gap: 4px; height: 100%; }
+.colchart .col .bar {
+  width: 60%; max-width: 46px;
+  background: var(--series-1);
+  border-radius: 4px 4px 0 0;
+  min-height: 2px;
+  cursor: default;
+}
+.colchart .col .v { font-size: 12px; color: var(--ink-2); font-variant-numeric: tabular-nums; }
+.colchart-labels { display: flex; gap: 10px; margin-top: 6px; }
+.colchart-labels span { flex: 1; text-align: center; font-size: 11.5px; color: var(--muted); }
+
+table { width: 100%; border-collapse: collapse; font-size: 14px; }
+th {
+  text-align: left; color: var(--muted); font-size: 12px;
+  font-weight: 600; text-transform: uppercase; letter-spacing: 0.03em;
+  padding: 6px 10px; border-bottom: 1px solid var(--grid);
+  cursor: pointer; user-select: none;
+}
+td { padding: 7px 10px; border-bottom: 1px solid var(--grid); }
+td.num { font-variant-numeric: tabular-nums; }
+tr:last-child td { border-bottom: none; }
+
+.services .service { padding: 12px 0; border-bottom: 1px solid var(--grid); }
+.services .service:last-child { border-bottom: none; }
+.service-head { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+.service-head .date { font-weight: 650; font-variant-numeric: tabular-nums; }
+.service-head .title { color: var(--ink-2); font-size: 13.5px; flex: 1; min-width: 200px; }
+.service-head a { color: var(--series-1); text-decoration: none; font-size: 13px; }
+.service-head .btn-edit-service {
+  background: none; border: none; color: var(--series-1);
+  cursor: pointer; font-size: 14px; padding: 2px 6px;
+}
+.service-head .btn-edit-service:hover { color: var(--ink); }
+.service-head .del {
+  background: none; border: none; color: var(--muted);
+  cursor: pointer; font-size: 13px; padding: 2px 6px;
+}
+.service-head .del:hover { color: var(--danger); }
+
+.service.edit-mode .chips { background: var(--page); border-radius: 8px; padding: 10px; margin-bottom: 10px; }
+.service.edit-mode .chip { margin: 4px 4px; }
+.chip .btn-del-song {
+  background: none; border: none; cursor: pointer;
+  color: var(--muted); font-size: 13px; padding: 0 4px; margin-left: 4px;
+}
+.chip .btn-del-song:hover { color: var(--danger); }
+
+.chip-edit-form {
+  display: inline-flex; gap: 6px; padding: 6px 10px;
+  background: var(--page); border: 1px solid var(--series-1); border-radius: 999px;
+  align-items: center;
+}
+.chip-edit-form input {
+  background: transparent; color: var(--ink);
+  border: none; border-bottom: 1px solid var(--series-1);
+  padding: 2px 4px; font: inherit; font-size: 13px;
+  min-width: 80px;
+}
+.chip-edit-form .edit-title { min-width: 150px; }
+.chip-edit-form input:focus { outline: none; }
+.chip-edit-form .btn { padding: 3px 6px; font-size: 12px; }
+.chip-edit-form .btn-primary { background: var(--series-1); border: none; color: #fff; }
+.chip-edit-form .btn-cancel { background: none; border: 1px solid var(--danger); color: var(--danger); }
+
+.service-add-song {
+  display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap;
+}
+.service-add-song input {
+  background: var(--page); color: var(--ink);
+  border: 1px solid var(--border); border-radius: 6px;
+  padding: 6px 8px; font: inherit; font-size: 13px;
+}
+.service-add-song .add-title { flex: 1; min-width: 200px; }
+.service-add-song .add-leader { min-width: 140px; }
+.service-add-song .btn { padding: 6px 10px; font-size: 13px; }
+.service-add-song .btn-done { background: var(--page); border-color: var(--border); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.chip {
+  display: inline-flex; align-items: center; gap: 6px;
+  background: var(--page);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 3px 10px;
+  font-size: 13px;
+}
+.chip .leader { color: var(--muted); font-size: 12px; }
+.chip .x {
+  background: none; border: none; cursor: pointer;
+  color: var(--muted); font-size: 12px; padding: 0;
+}
+.chip .x:hover { color: var(--danger); }
+
+.btn {
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--ink);
+  border-radius: 8px;
+  padding: 8px 14px;
+  font-size: 14px;
+  cursor: pointer;
+}
+.btn-primary { background: var(--series-1); border-color: var(--series-1); color: #fff; }
+.btn:disabled { opacity: 0.5; cursor: wait; }
+.btn-add-song {
+  border: 1px dashed var(--border);
+  background: transparent;
+  color: var(--series-1);
+  border-radius: 6px;
+  padding: 6px 10px;
+  font-size: 13px;
+  cursor: pointer;
+}
+.btn-add-song:hover { background: var(--series-1-soft); }
+
+.empty { color: var(--muted); padding: 24px 0; text-align: center; }
+
+.tooltip {
+  position: fixed;
+  z-index: 50;
+  background: var(--ink);
+  color: var(--page);
+  padding: 6px 10px;
+  border-radius: 8px;
+  font-size: 12.5px;
+  pointer-events: none;
+  max-width: 260px;
+}
+
+dialog {
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: var(--surface);
+  color: var(--ink);
+  padding: 22px 24px;
+  width: min(480px, 92vw);
+}
+dialog::backdrop { background: rgba(0, 0, 0, 0.4); }
+dialog h2 { margin: 0 0 14px; font-size: 17px; }
+dialog label { display: block; margin-bottom: 12px; font-size: 13.5px; color: var(--ink-2); }
+dialog input, dialog select, dialog textarea {
+  display: block; width: 100%; margin-top: 4px;
+  background: var(--page); color: var(--ink);
+  border: 1px solid var(--border); border-radius: 8px;
+  padding: 8px 10px; font: inherit; font-size: 14px;
+}
+.form-actions { display: flex; justify-content: flex-end; gap: 8px; margin-top: 16px; }
+
+.todo-add { display: flex; gap: 8px; margin-bottom: 14px; }
+.todo-add input {
+  flex: 1;
+  background: var(--page); color: var(--ink);
+  border: 1px solid var(--border); border-radius: 8px;
+  padding: 8px 10px; font: inherit; font-size: 14px;
+}
+.todo-list { display: flex; flex-direction: column; }
+.todo-item {
+  display: flex; align-items: flex-start; gap: 10px;
+  padding: 9px 4px;
+  border-bottom: 1px solid var(--grid);
+  cursor: pointer;
+}
+.todo-item:last-child { border-bottom: none; }
+.todo-item input { margin-top: 4px; accent-color: var(--series-1); }
+.todo-item .todo-text { flex: 1; font-size: 14.5px; }
+.todo-item.done .todo-text { color: var(--muted); text-decoration: line-through; }
+.todo-item .x {
+  background: none; border: none; cursor: pointer;
+  color: var(--muted); font-size: 15px; padding: 0 4px;
+}
+.todo-item .x:hover { color: var(--danger); }
+
+.refresh-log {
+  white-space: pre-wrap;
+  font: 12px/1.5 ui-monospace, monospace;
+  color: var(--ink-2);
+  background: var(--page);
+  border-radius: 8px;
+  padding: 10px 12px;
+  margin-top: 10px;
+  max-height: 220px;
+  overflow: auto;
+}

@@ -1,0 +1,1384 @@
+{
+  "services": [
+    {
+      "id": "tg-2026-08-16",
+      "date": "2026-08-16",
+      "title": "Молодіжне служіння",
+      "url": "",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0142",
+          "leader": null
+        },
+        {
+          "song_id": "song_0125",
+          "leader": null
+        },
+        {
+          "song_id": "song_0207",
+          "leader": null
+        }
+      ]
+    },
+    {
+      "id": "tg-2026-08-09",
+      "date": "2026-08-09",
+      "title": "Сила іншого | Jeff Whye | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=bX7k-SvyQk8",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0036",
+          "leader": "Наталя Вергун"
+        },
+        {
+          "song_id": "song_0102",
+          "leader": "Наталя Вергун"
+        }
+      ],
+      "video_id": "bX7k-SvyQk8"
+    },
+    {
+      "id": "tg-2026-07-12",
+      "date": "2026-07-12",
+      "title": "З міркувань совісті | Ігор Новосельцев | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=z36kxMNURKQ",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0103",
+          "leader": null
+        },
+        {
+          "song_id": "song_0056",
+          "leader": null
+        },
+        {
+          "song_id": "song_0141",
+          "leader": null
+        },
+        {
+          "song_id": "song_0026",
+          "leader": null
+        }
+      ],
+      "video_id": "z36kxMNURKQ"
+    },
+    {
+      "id": "tg-2026-06-28",
+      "date": "2026-06-28",
+      "title": "Поки не пізно | Роберт Петриляк | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=2qo6NjSWplE",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0104",
+          "leader": null
+        },
+        {
+          "song_id": "song_0207",
+          "leader": null
+        },
+        {
+          "song_id": "song_0090",
+          "leader": null
+        },
+        {
+          "song_id": "song_0096",
+          "leader": "Ілона Борщ"
+        }
+      ],
+      "video_id": "2qo6NjSWplE"
+    },
+    {
+      "id": "tg-2026-06-21",
+      "date": "2026-06-21",
+      "title": "Щире поклоніння | Ігор Новосельцев | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=zgLuqOy2XMw",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0104",
+          "leader": null
+        },
+        {
+          "song_id": "song_0207",
+          "leader": null
+        },
+        {
+          "song_id": "song_0090",
+          "leader": null
+        },
+        {
+          "song_id": "song_0096",
+          "leader": null
+        }
+      ],
+      "video_id": "zgLuqOy2XMw"
+    },
+    {
+      "id": "tg-2026-06-14",
+      "date": "2026-06-14",
+      "title": "Чому я поклоняюсь Богу? | Ігор Новосельцев | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=aeROF8kneG8",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0125",
+          "leader": "Наталя Вергун"
+        },
+        {
+          "song_id": "song_0102",
+          "leader": null
+        },
+        {
+          "song_id": "song_0201",
+          "leader": null
+        },
+        {
+          "song_id": "song_0071",
+          "leader": "Аня Грифель"
+        }
+      ],
+      "video_id": "aeROF8kneG8"
+    },
+    {
+      "id": "tg-2026-06-07",
+      "date": "2026-06-07",
+      "title": "Який плану, Тату? | Володимир Білик | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=7DsUuEjZEW0",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0067",
+          "leader": null
+        },
+        {
+          "song_id": "song_0131",
+          "leader": null
+        },
+        {
+          "song_id": "song_0049",
+          "leader": null
+        },
+        {
+          "song_id": "song_0162",
+          "leader": null
+        }
+      ],
+      "video_id": "7DsUuEjZEW0"
+    },
+    {
+      "id": "tg-2026-05-31",
+      "date": "2026-05-31",
+      "title": "Впевненість коли потрібно щось залишити| Ігор Новосельцев | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=RzCzAwoL9HA",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0082",
+          "leader": null
+        },
+        {
+          "song_id": "song_0005",
+          "leader": null
+        },
+        {
+          "song_id": "song_0094",
+          "leader": null
+        }
+      ],
+      "video_id": "RzCzAwoL9HA"
+    },
+    {
+      "id": "tg-2026-05-24",
+      "date": "2026-05-24",
+      "title": "Впевненість зробити перший крок  | Ігор Новосельцев | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=_7AzBMwm4Q4",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0052",
+          "leader": null
+        },
+        {
+          "song_id": "song_0119",
+          "leader": null
+        },
+        {
+          "song_id": "song_0147",
+          "leader": null
+        }
+      ],
+      "video_id": "_7AzBMwm4Q4"
+    },
+    {
+      "id": "tg-2026-04-26",
+      "date": "2026-04-26",
+      "title": "Вечір хвали | Конференція | Палай і зростай | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=BspXXqWgfxg",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0005",
+          "leader": null
+        }
+      ],
+      "video_id": "BspXXqWgfxg"
+    },
+    {
+      "id": "tg-2026-04-19",
+      "date": "2026-04-19",
+      "title": "Всім своїм розумом | Лі Хьюмеріан | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=XmkHOEqasPw",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0122",
+          "leader": null
+        },
+        {
+          "song_id": "song_0191",
+          "leader": null
+        }
+      ],
+      "video_id": "XmkHOEqasPw"
+    },
+    {
+      "id": "tg-2026-04-12",
+      "date": "2026-04-12",
+      "title": "Не так, як ти думаєш | Андрій Татач | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=tCQnqJ_zOCQ",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0091",
+          "leader": "Анна Штереб"
+        },
+        {
+          "song_id": "song_0182",
+          "leader": null
+        },
+        {
+          "song_id": "song_0062",
+          "leader": null
+        },
+        {
+          "song_id": "song_0137",
+          "leader": null
+        }
+      ],
+      "video_id": "tCQnqJ_zOCQ"
+    },
+    {
+      "id": "tg-2026-04-05",
+      "date": "2026-04-05",
+      "title": "Тріумф Пасхи | Володимир Білик | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=NUhex2wwg_8",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0050",
+          "leader": null
+        },
+        {
+          "song_id": "song_0032",
+          "leader": null
+        }
+      ],
+      "video_id": "NUhex2wwg_8"
+    },
+    {
+      "id": "tg-2026-03-29",
+      "date": "2026-03-29",
+      "title": "Сім днів до дива | Ігор Новосельцев | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=CWciswdyOwA",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0041",
+          "leader": null
+        },
+        {
+          "song_id": "song_0134",
+          "leader": "Діана Завадська"
+        },
+        {
+          "song_id": "song_0184",
+          "leader": null
+        }
+      ],
+      "video_id": "CWciswdyOwA"
+    },
+    {
+      "id": "tg-2026-03-22",
+      "date": "2026-03-22",
+      "title": "Коли навколо темрява | Андрій Татач | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=LrOLLwCgqaY",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0050",
+          "leader": "Анна Штереб"
+        },
+        {
+          "song_id": "song_0141",
+          "leader": "Аня Грифель"
+        },
+        {
+          "song_id": "song_0026",
+          "leader": "Анна Штереб"
+        }
+      ],
+      "video_id": "LrOLLwCgqaY"
+    },
+    {
+      "id": "tg-2026-03-15",
+      "date": "2026-03-15",
+      "title": "Неминучий шторм | Ігор Новосельцев | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=gACPmV2kIrk",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0068",
+          "leader": "Андрій Татач"
+        },
+        {
+          "song_id": "song_0131",
+          "leader": null
+        }
+      ],
+      "video_id": "gACPmV2kIrk"
+    },
+    {
+      "id": "tg-2026-03-08",
+      "date": "2026-03-08",
+      "title": "Любить чи не любить? | Ігор Новосельцев | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=sA1xbIXNjDk",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0142",
+          "leader": null
+        },
+        {
+          "song_id": "song_0174",
+          "leader": null
+        },
+        {
+          "song_id": "song_0144",
+          "leader": null
+        },
+        {
+          "song_id": "song_0063",
+          "leader": null
+        }
+      ],
+      "video_id": "sA1xbIXNjDk"
+    },
+    {
+      "id": "tg-2026-03-01",
+      "date": "2026-03-01",
+      "title": "Христоцентрична сім'я | Володимир Білик | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=ffkjCoB1iaQ",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0165",
+          "leader": "Діана Завадська"
+        },
+        {
+          "song_id": "song_0209",
+          "leader": "Діана Завадська"
+        },
+        {
+          "song_id": "song_0050",
+          "leader": "Діана Завадська"
+        },
+        {
+          "song_id": "song_0062",
+          "leader": "Діана Завадська"
+        },
+        {
+          "song_id": "song_0183",
+          "leader": "Наталя Вергун"
+        }
+      ],
+      "video_id": "ffkjCoB1iaQ"
+    },
+    {
+      "id": "tg-2026-02-22",
+      "date": "2026-02-22",
+      "title": "Ми є носіями Божого образу | Лі Хьюмеріан | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=G9o5MSpiihU",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0125",
+          "leader": "Ілона Борщ"
+        },
+        {
+          "song_id": "song_0201",
+          "leader": "Ілона Борщ"
+        },
+        {
+          "song_id": "song_0026",
+          "leader": "Ілона Борщ"
+        }
+      ],
+      "video_id": "G9o5MSpiihU"
+    },
+    {
+      "id": "tg-2026-02-15",
+      "date": "2026-02-15",
+      "title": "Відвага любити назавжди | Ігор Новосельцев | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=ZaH31kbCkfU",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0182",
+          "leader": "Квітка Ганчук"
+        },
+        {
+          "song_id": "song_0147",
+          "leader": "Міра Гаджа"
+        },
+        {
+          "song_id": "song_0141",
+          "leader": "Квітка Ганчук"
+        },
+        {
+          "song_id": "song_0160",
+          "leader": "Квітка Ганчук"
+        }
+      ],
+      "video_id": "ZaH31kbCkfU"
+    },
+    {
+      "id": "tg-2026-02-08",
+      "date": "2026-02-08",
+      "title": "Ще один шанс на успіх | Ігор Новосельцев | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=rd6_VzrOrRY",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0142",
+          "leader": "Діана Завадська"
+        },
+        {
+          "song_id": "song_0131",
+          "leader": "Діана Завадська"
+        },
+        {
+          "song_id": "song_0186",
+          "leader": "Діана Завадська"
+        },
+        {
+          "song_id": "song_0066",
+          "leader": "Анна Штереб"
+        }
+      ],
+      "video_id": "rd6_VzrOrRY"
+    },
+    {
+      "id": "tg-2026-02-01",
+      "date": "2026-02-01",
+      "title": "Вечір Хвали | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=iD2r8kf5BwA",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0005",
+          "leader": "Квітка"
+        },
+        {
+          "song_id": "song_0050",
+          "leader": "Наталя"
+        },
+        {
+          "song_id": "song_0185",
+          "leader": "Квітка"
+        },
+        {
+          "song_id": "song_0071",
+          "leader": "Ілона Борщ"
+        },
+        {
+          "song_id": "song_0144",
+          "leader": "Ілона Борщ"
+        },
+        {
+          "song_id": "song_0148",
+          "leader": "Наталя"
+        }
+      ],
+      "video_id": "iD2r8kf5BwA"
+    },
+    {
+      "id": "tg-2026-01-25",
+      "date": "2026-01-25",
+      "title": "Я знаю, що робити далі | Ігор Новосельцев | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=eA6dUIQhwWg",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0108",
+          "leader": null
+        },
+        {
+          "song_id": "song_0094",
+          "leader": null
+        },
+        {
+          "song_id": "song_0079",
+          "leader": null
+        }
+      ],
+      "video_id": "eA6dUIQhwWg"
+    },
+    {
+      "id": "tg-2026-01-18",
+      "date": "2026-01-18",
+      "title": "Віднови першу любов | Ігор Новосельцев | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=2GZBn2bduM4",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0082",
+          "leader": "Аня Грифель"
+        },
+        {
+          "song_id": "song_0062",
+          "leader": "Ілона Борщ"
+        },
+        {
+          "song_id": "song_0146",
+          "leader": "Ілона Борщ"
+        }
+      ],
+      "video_id": "2GZBn2bduM4"
+    },
+    {
+      "id": "tg-2026-01-11",
+      "date": "2026-01-11",
+      "title": "Хочу побачити жнива | Ігор Новосельцев | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=hhtHm_xJwd0",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0173",
+          "leader": "Аня Грифель"
+        },
+        {
+          "song_id": "song_0071",
+          "leader": "Діана Завадська"
+        }
+      ],
+      "video_id": "hhtHm_xJwd0"
+    },
+    {
+      "id": "tg-2026-01-04",
+      "date": "2026-01-04",
+      "title": "Релевантний шлях | Ігор Новосельцев | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=oAF64JRmEd0",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0182",
+          "leader": "Аня Грифель"
+        }
+      ],
+      "video_id": "oAF64JRmEd0"
+    },
+    {
+      "id": "tg-2025-12-28",
+      "date": "2025-12-28",
+      "title": "Як бути задоволеною людиною | Володимир Білик | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=KxheTo9NfIQ",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0082",
+          "leader": "Аня Грифель"
+        },
+        {
+          "song_id": "song_0183",
+          "leader": "Анна Штереб"
+        },
+        {
+          "song_id": "song_0030",
+          "leader": null
+        }
+      ],
+      "video_id": "KxheTo9NfIQ"
+    },
+    {
+      "id": "tg-2025-12-14",
+      "date": "2025-12-14",
+      "title": "Агапе любов  |Лі Хьюмеріан  | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=4p7-8GxaMEc",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0148",
+          "leader": "Наталя"
+        },
+        {
+          "song_id": "song_0186",
+          "leader": "Ілона Борщ"
+        }
+      ],
+      "video_id": "4p7-8GxaMEc"
+    },
+    {
+      "id": "tg-2025-12-07",
+      "date": "2025-12-07",
+      "title": "Невимовна радість | Володимир Білик | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=CK2BVHEK2gA",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0142",
+          "leader": "Діана Завадська"
+        },
+        {
+          "song_id": "song_0122",
+          "leader": "Квітка"
+        }
+      ],
+      "video_id": "CK2BVHEK2gA"
+    },
+    {
+      "id": "tg-2025-11-30",
+      "date": "2025-11-30",
+      "title": "День Подяки | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=oc28VQALOdY",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0050",
+          "leader": "Діана Завадська"
+        },
+        {
+          "song_id": "song_0131",
+          "leader": "Діана Завадська"
+        }
+      ],
+      "video_id": "oc28VQALOdY"
+    },
+    {
+      "id": "tg-2025-11-23",
+      "date": "2025-11-23",
+      "title": "Надія, що змінює теперешнє | Андрій Татач | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=al1W0Y4I_nY",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0182",
+          "leader": "Аня Грифель"
+        },
+        {
+          "song_id": "song_0082",
+          "leader": "Міра"
+        },
+        {
+          "song_id": "song_0047",
+          "leader": "Ліда"
+        }
+      ],
+      "video_id": "al1W0Y4I_nY"
+    },
+    {
+      "id": "tg-2025-11-09",
+      "date": "2025-11-09",
+      "title": "Коло мрій | Міро Тот | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=u9DmJIW1Ro4",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0062",
+          "leader": "Ілона Борщ"
+        }
+      ],
+      "video_id": "u9DmJIW1Ro4"
+    },
+    {
+      "id": "tg-2025-11-02",
+      "date": "2025-11-02",
+      "title": "Ресурсна церква | Володимир Білик",
+      "url": "https://www.youtube.com/watch?v=-Bi2p3MaouY",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0183",
+          "leader": "Квітка"
+        },
+        {
+          "song_id": "song_0082",
+          "leader": "Наталя"
+        },
+        {
+          "song_id": "song_0160",
+          "leader": "Квітка"
+        },
+        {
+          "song_id": "song_0026",
+          "leader": "Наталя"
+        }
+      ],
+      "video_id": "-Bi2p3MaouY"
+    },
+    {
+      "id": "tg-2025-10-26",
+      "date": "2025-10-26",
+      "title": "Дай п'ять | Микола Савчук",
+      "url": "https://www.youtube.com/watch?v=Q3mDxObkc5U",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0082",
+          "leader": "Ілона Борщ"
+        },
+        {
+          "song_id": "song_0094",
+          "leader": "Квітка"
+        },
+        {
+          "song_id": "song_0195",
+          "leader": "Ілона Борщ"
+        }
+      ],
+      "video_id": "Q3mDxObkc5U"
+    },
+    {
+      "id": "tg-2025-10-19",
+      "date": "2025-10-19",
+      "title": "Зростаюча Церква | Андрій Татач",
+      "url": "https://www.youtube.com/watch?v=9gA-OY9L0Jg",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0148",
+          "leader": "Наталя"
+        },
+        {
+          "song_id": "song_0131",
+          "leader": "Наталя"
+        },
+        {
+          "song_id": "song_0062",
+          "leader": "Квітка"
+        }
+      ],
+      "video_id": "9gA-OY9L0Jg"
+    },
+    {
+      "id": "tg-2025-10-12",
+      "date": "2025-10-12",
+      "title": "Здорова Церква | Ігор Новосельцев",
+      "url": "https://www.youtube.com/watch?v=y2pyf7-OIv0",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0183",
+          "leader": "Ілона Борщ"
+        },
+        {
+          "song_id": "song_0071",
+          "leader": "Діана Завадська"
+        }
+      ],
+      "video_id": "y2pyf7-OIv0"
+    },
+    {
+      "id": "tg-2025-10-05",
+      "date": "2025-10-05",
+      "title": "Місійна церква | Роберт Петриляк",
+      "url": "https://www.youtube.com/watch?v=1BfsheE0aSc",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0185",
+          "leader": "Наталя"
+        },
+        {
+          "song_id": "song_0144",
+          "leader": "Аня Грифель"
+        },
+        {
+          "song_id": "song_0183",
+          "leader": "Наталя"
+        }
+      ],
+      "video_id": "1BfsheE0aSc"
+    },
+    {
+      "id": "tg-2025-09-28",
+      "date": "2025-09-28",
+      "title": "Стояти коли всі проти | Ігор Новосельцев",
+      "url": "https://www.youtube.com/watch?v=1wtv7DZmT9Q",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0173",
+          "leader": "Анна Штереб"
+        }
+      ],
+      "video_id": "1wtv7DZmT9Q"
+    },
+    {
+      "id": "tg-2025-09-21",
+      "date": "2025-09-21",
+      "title": "Молитися і не занепадати | Ігор Новосельцев",
+      "url": "https://www.youtube.com/watch?v=GA7it_2Q9V0",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0026",
+          "leader": "Ілона Борщ"
+        }
+      ],
+      "video_id": "GA7it_2Q9V0"
+    },
+    {
+      "id": "tg-2025-09-14",
+      "date": "2025-09-14",
+      "title": "Час настав | Ігор Новосельцев",
+      "url": "https://www.youtube.com/watch?v=rtlvKdNY6Ws",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0209",
+          "leader": "Аня Грифель"
+        },
+        {
+          "song_id": "song_0094",
+          "leader": "Квітка"
+        }
+      ],
+      "video_id": "rtlvKdNY6Ws"
+    },
+    {
+      "id": "tg-2025-09-07",
+      "date": "2025-09-07",
+      "title": "Завжди хороші новини | Володимир Білик | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=isGBA-7navI",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0185",
+          "leader": "Квітка"
+        },
+        {
+          "song_id": "song_0050",
+          "leader": "Наталя"
+        },
+        {
+          "song_id": "song_0164",
+          "leader": "Наталя"
+        },
+        {
+          "song_id": "song_0163",
+          "leader": "Квітка"
+        }
+      ],
+      "video_id": "isGBA-7navI"
+    },
+    {
+      "id": "tg-2025-08-31",
+      "date": "2025-08-31",
+      "title": "В пошуках духовних переживань | Ігор Новосельцев",
+      "url": "https://www.youtube.com/watch?v=HNYEzgjstcQ",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0113",
+          "leader": "Ілона Борщ"
+        },
+        {
+          "song_id": "song_0182",
+          "leader": "Анна Штереб"
+        },
+        {
+          "song_id": "song_0138",
+          "leader": "Анна Штереб"
+        }
+      ],
+      "video_id": "HNYEzgjstcQ"
+    },
+    {
+      "id": "tg-2025-08-24",
+      "date": "2025-08-24",
+      "title": "Байдужість - найстрашніший стан серця | Анатолій Загляда",
+      "url": "https://www.youtube.com/watch?v=oKHCV4ea0UU",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0142",
+          "leader": "Наталя"
+        },
+        {
+          "song_id": "song_0131",
+          "leader": "Діана Завадська"
+        },
+        {
+          "song_id": "song_0026",
+          "leader": "Наталя"
+        }
+      ],
+      "video_id": "oKHCV4ea0UU"
+    },
+    {
+      "id": "tg-2025-08-17",
+      "date": "2025-08-17",
+      "title": "Щоб усі були одне | Lee Humerian",
+      "url": "https://www.youtube.com/watch?v=C_JTUC8_qGQ",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0069",
+          "leader": "Аня Грифель"
+        }
+      ],
+      "video_id": "C_JTUC8_qGQ"
+    },
+    {
+      "id": "tg-2025-08-10",
+      "date": "2025-08-10",
+      "title": "Мені не все одно | Ігор Новосельцев",
+      "url": "https://www.youtube.com/watch?v=43KK1moldHY",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0071",
+          "leader": "Наталя"
+        }
+      ],
+      "video_id": "43KK1moldHY"
+    },
+    {
+      "id": "tg-2025-07-27",
+      "date": "2025-07-27",
+      "title": "Замасковане зло, яке знищує віру | Ігор Новосельцев",
+      "url": "https://www.youtube.com/watch?v=OG24_lMkIsI",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0106",
+          "leader": "Ліда"
+        }
+      ],
+      "video_id": "OG24_lMkIsI"
+    },
+    {
+      "id": "tg-2025-07-20",
+      "date": "2025-07-20",
+      "title": "Яке відношення має церква до справжнього життя? | Лі Хьюмеріан",
+      "url": "https://www.youtube.com/watch?v=HnieMalcc60",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0201",
+          "leader": "Ілона Борщ"
+        },
+        {
+          "song_id": "song_0026",
+          "leader": "Ілона Борщ"
+        }
+      ],
+      "video_id": "HnieMalcc60"
+    },
+    {
+      "id": "tg-2025-07-13",
+      "date": "2025-07-13",
+      "title": "Вавилонський синдром: Бажання незалежності VS. Життя в Христі | Ігор Новосельцев",
+      "url": "https://www.youtube.com/watch?v=pplJRSnZ-oc",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0165",
+          "leader": "Ілона Борщ"
+        },
+        {
+          "song_id": "song_0209",
+          "leader": "Ілона Борщ"
+        },
+        {
+          "song_id": "song_0062",
+          "leader": "Діана Завадська"
+        }
+      ],
+      "video_id": "pplJRSnZ-oc"
+    },
+    {
+      "id": "tg-2025-07-06",
+      "date": "2025-07-06",
+      "title": "Це ще не кінець | Володимир Білик | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=XU2aFdYPYq4",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0050",
+          "leader": "Діана Завадська"
+        },
+        {
+          "song_id": "song_0026",
+          "leader": "Ілона Борщ"
+        }
+      ],
+      "video_id": "XU2aFdYPYq4"
+    },
+    {
+      "id": "tg-2025-06-29",
+      "date": "2025-06-29",
+      "title": "За кого Його вважаєш? Істиною проти дезінформації | Роберт Петриляк | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=_WKiXtNpCWY",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0131",
+          "leader": "Ілона Борщ"
+        },
+        {
+          "song_id": "song_0094",
+          "leader": "Аня Грифель"
+        }
+      ],
+      "video_id": "_WKiXtNpCWY"
+    },
+    {
+      "id": "tg-2025-06-15",
+      "date": "2025-06-15",
+      "title": "Вавилонський синдром | Андрій Татач | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=5XXh4ZjPHwU",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0108",
+          "leader": "Квітка"
+        },
+        {
+          "song_id": "song_0185",
+          "leader": null
+        },
+        {
+          "song_id": "song_0195",
+          "leader": "Ілона Борщ"
+        },
+        {
+          "song_id": "song_0181",
+          "leader": "Ілона Борщ"
+        }
+      ],
+      "video_id": "5XXh4ZjPHwU"
+    },
+    {
+      "id": "tg-2025-06-08",
+      "date": "2025-06-08",
+      "title": "Дух Святий: пізнання, наповнення, виявлення | Володимир Білик | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=aP-6V331UNI",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0091",
+          "leader": "Наталя"
+        },
+        {
+          "song_id": "song_0142",
+          "leader": "Наталя"
+        },
+        {
+          "song_id": "song_0122",
+          "leader": "Ліда"
+        },
+        {
+          "song_id": "song_0062",
+          "leader": "Діана Завадська"
+        }
+      ],
+      "video_id": "aP-6V331UNI"
+    },
+    {
+      "id": "tg-2025-06-01",
+      "date": "2025-06-01",
+      "title": "Коли двоє погодяться просити | Ігор Новосельцев | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=Sx081IWhmWM",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0050",
+          "leader": "Квітка"
+        }
+      ],
+      "video_id": "Sx081IWhmWM"
+    },
+    {
+      "id": "tg-2025-05-25",
+      "date": "2025-05-25",
+      "title": "Вечір Хвали | Конференція POWER PLACE | Tobias Toth | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=2BsO6EAn5dA",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0206",
+          "leader": null
+        },
+        {
+          "song_id": "song_0142",
+          "leader": "Наталя"
+        },
+        {
+          "song_id": "song_0131",
+          "leader": "Ілона Борщ"
+        },
+        {
+          "song_id": "song_0205",
+          "leader": null
+        }
+      ],
+      "video_id": "2BsO6EAn5dA"
+    },
+    {
+      "id": "tg-2025-05-18",
+      "date": "2025-05-18",
+      "title": "Від погляду до шлюбу | Ігор Новосельцев | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=JvTBHkn0TYE",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0125",
+          "leader": null
+        },
+        {
+          "song_id": "song_0069",
+          "leader": null
+        }
+      ],
+      "video_id": "JvTBHkn0TYE"
+    },
+    {
+      "id": "tg-2025-05-11",
+      "date": "2025-05-11",
+      "title": "Українцям від апостолів. У час війни | Володимир Білик | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=HEx2JtBlXqw",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0142",
+          "leader": "Наталя Вергун"
+        },
+        {
+          "song_id": "song_0182",
+          "leader": "Квітка Ганчук"
+        },
+        {
+          "song_id": "song_0048",
+          "leader": "Діана Завадська"
+        },
+        {
+          "song_id": "song_0131",
+          "leader": "Наталя Вергун"
+        }
+      ],
+      "video_id": "HEx2JtBlXqw"
+    },
+    {
+      "id": "tg-2025-05-04",
+      "date": "2025-05-04",
+      "title": "Останнє послання Ісуса | Ігор Новосельцев | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=7A99ewiKPZc",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0148",
+          "leader": "Наталя"
+        }
+      ],
+      "video_id": "7A99ewiKPZc"
+    },
+    {
+      "id": "tg-2025-04-27",
+      "date": "2025-04-27",
+      "title": "Несправедливі події | Ігор Новосельцев | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=js6_ZW8i0rA",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0197",
+          "leader": "Софія Федорчук"
+        },
+        {
+          "song_id": "song_0144",
+          "leader": "Ілона Борщ"
+        }
+      ],
+      "video_id": "js6_ZW8i0rA"
+    },
+    {
+      "id": "tg-2025-04-20",
+      "date": "2025-04-20",
+      "title": "Місце де живе Бог | Ігор Новосельцев | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=FON_mTn5fjs",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0175",
+          "leader": "Ліdia"
+        },
+        {
+          "song_id": "song_0050",
+          "leader": "Анна Штереб"
+        },
+        {
+          "song_id": "song_0165",
+          "leader": "Ліdia"
+        }
+      ],
+      "video_id": "FON_mTn5fjs"
+    },
+    {
+      "id": "tg-2025-04-13",
+      "date": "2025-04-13",
+      "title": "Ким нас робить воскресіння Ісуса | Лі Хьюмеріан | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=2yAypafZUlk",
+      "source": "telegram",
+      "songs": [],
+      "video_id": "2yAypafZUlk"
+    },
+    {
+      "id": "tg-2025-04-06",
+      "date": "2025-04-06",
+      "title": "Секрет молитов, які отримують відповідь | Володимир Білик | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=0jwYDiE-jnE",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0185",
+          "leader": null
+        },
+        {
+          "song_id": "song_0050",
+          "leader": "Квітка"
+        },
+        {
+          "song_id": "song_0138",
+          "leader": "Аня Грифель"
+        }
+      ],
+      "video_id": "0jwYDiE-jnE"
+    },
+    {
+      "id": "tg-2025-03-30",
+      "date": "2025-03-30",
+      "title": "Активація дії сили Божої | Ігор Новосельцев | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=rbaunMWTWLk",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0071",
+          "leader": "Наталя Вергун"
+        }
+      ],
+      "video_id": "rbaunMWTWLk"
+    },
+    {
+      "id": "tg-2025-03-23",
+      "date": "2025-03-23",
+      "title": "Що перешкоджає отримати благословіння та радість в житті? | Микита Цупік | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=lapSB-KJiYo",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0005",
+          "leader": "Ліда"
+        },
+        {
+          "song_id": "song_0145",
+          "leader": "Ліда"
+        }
+      ],
+      "video_id": "lapSB-KJiYo"
+    },
+    {
+      "id": "tg-2025-03-16",
+      "date": "2025-03-16",
+      "title": "Бог в команді смиренних | Ігор Новосельцев | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=cznSKhYY2d0",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0182",
+          "leader": "Анна Штереб"
+        },
+        {
+          "song_id": "song_0004",
+          "leader": "Ліdia"
+        },
+        {
+          "song_id": "song_0066",
+          "leader": "Ілона Борщ"
+        }
+      ],
+      "video_id": "cznSKhYY2d0"
+    },
+    {
+      "id": "tg-2025-03-09",
+      "date": "2025-03-09",
+      "title": "Коли Ісус повернеться  | Ігор Новосельцев | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=-r-yptWvgjU",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0134",
+          "leader": "Міра Гаджа"
+        },
+        {
+          "song_id": "song_0071",
+          "leader": "Ілона Борщ"
+        },
+        {
+          "song_id": "song_0062",
+          "leader": "Діана Завадська"
+        }
+      ],
+      "video_id": "-r-yptWvgjU"
+    },
+    {
+      "id": "tg-2025-03-02",
+      "date": "2025-03-02",
+      "title": "Шукайте  перш за все Царства Божого | Володимир Білик | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=GDPKoZ3hmbg",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0134",
+          "leader": "Діана Завадська"
+        },
+        {
+          "song_id": "song_0050",
+          "leader": "Квітка"
+        }
+      ],
+      "video_id": "GDPKoZ3hmbg"
+    },
+    {
+      "id": "tg-2025-02-23",
+      "date": "2025-02-23",
+      "title": "Боже покликання для сім'ї | Ігор Новоселцев | Церква Джерело Життя",
+      "url": "https://www.youtube.com/watch?v=zNVO8K3whzM",
+      "source": "telegram",
+      "songs": [
+        {
+          "song_id": "song_0179",
+          "leader": "Ілона Борщ"
+        },
+        {
+          "song_id": "song_0071",
+          "leader": "Ілона Борщ"
+        }
+      ],
+      "video_id": "zNVO8K3whzM"
+    }
+  ]
+}

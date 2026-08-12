@@ -1,0 +1,60 @@
+[
+  {
+    "id": "gateway",
+    "name": "Gateway Church",
+    "location": "Dallas–Fort Worth, США",
+    "pastor": "Daniel Floyd",
+    "channel": "https://www.youtube.com/@gatewaychurchtv/streams",
+    "auto": true,
+    "parser": "gateway"
+  },
+  {
+    "id": "alfa",
+    "name": "Alfa Church",
+    "location": "Київ",
+    "pastor": "Дмитро Бодю",
+    "channel": "https://www.youtube.com/channel/UCB7UGYsuCIaN5AoBQJs2NLA/streams",
+    "auto": true,
+    "parser": "alfa"
+  },
+  {
+    "id": "bethel",
+    "name": "Bethel Church",
+    "location": "Redding, США",
+    "pastor": "Bill Johnson",
+    "channel": "https://www.youtube.com/user/ibetheltv/streams",
+    "auto": true,
+    "parser": "captions",
+    "months": 2
+  },
+  {
+    "id": "ecclesia",
+    "name": "Ecclesia Church",
+    "location": "Київ",
+    "pastor": "Олег Богомаз",
+    "channel": "https://www.youtube.com/@ECCLESIA2024",
+    "auto": false
+  },
+  {
+    "id": "dyouth",
+    "name": "D.Youth",
+    "location": "Львів",
+    "pastor": "Ігор Новосельцев",
+    "channel": "https://www.youtube.com/@dyouthlviv/streams",
+    "auto": false,
+    "parser": "dyouth",
+    "skip_empty": true,
+    "months": 12,
+    "worship_leaders": [
+      "Андрій Татач",
+      "Анна Штереб",
+      "Аня Грифель",
+      "Діана Завадська",
+      "Ілона Борщ",
+      "Квітка Ганчук",
+      "Міра Гаджа",
+      "Наталя Вергун",
+      "Софія Федорчук"
+    ]
+  }
+]

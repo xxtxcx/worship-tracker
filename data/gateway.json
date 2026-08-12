@@ -1,0 +1,780 @@
+{
+  "services": [
+    {
+      "id": "AnLLgEd9PQs",
+      "video_id": "AnLLgEd9PQs",
+      "date": "2026-08-09",
+      "title": "Gateway Church Live | We Can Do It by Christine Caine | August 9",
+      "url": "https://www.youtube.com/watch?v=AnLLgEd9PQs",
+      "source": "youtube",
+      "songs": [
+        {
+          "song_id": "song_0025",
+          "leader": "Claire Smith"
+        },
+        {
+          "song_id": "song_0018",
+          "leader": "Hope Adams"
+        },
+        {
+          "song_id": "song_0077",
+          "leader": "Austin Alford"
+        },
+        {
+          "song_id": "song_0013",
+          "leader": "Austin Alford"
+        },
+        {
+          "song_id": "song_0060",
+          "leader": "Austin Alford"
+        }
+      ]
+    },
+    {
+      "id": "oKRJ6zY2P6Q",
+      "video_id": "oKRJ6zY2P6Q",
+      "date": "2026-08-02",
+      "title": "Gateway Church Live | “Accept or Decline” by Pastor Daniel Floyd | August 2",
+      "url": "https://www.youtube.com/watch?v=oKRJ6zY2P6Q",
+      "source": "youtube",
+      "songs": [
+        {
+          "song_id": "song_0101",
+          "leader": "Rebecca Hart"
+        },
+        {
+          "song_id": "song_0008",
+          "leader": "Jessie Harris"
+        },
+        {
+          "song_id": "song_0077",
+          "leader": "Matthew Harris"
+        },
+        {
+          "song_id": "song_0186",
+          "leader": "Matthew Harris"
+        },
+        {
+          "song_id": "song_0022",
+          "leader": "Jessie Harris"
+        }
+      ]
+    },
+    {
+      "id": "jNETS6SAsPs",
+      "video_id": "jNETS6SAsPs",
+      "date": "2026-07-19",
+      "title": "Gateway Church Live | “Source of Truth” by Pastor Daniel Floyd | July 19",
+      "url": "https://www.youtube.com/watch?v=jNETS6SAsPs",
+      "source": "youtube",
+      "songs": [
+        {
+          "song_id": "song_0132",
+          "leader": "Jaxon Greene"
+        },
+        {
+          "song_id": "song_0195",
+          "leader": "Sabrina Osborn"
+        },
+        {
+          "song_id": "song_0002",
+          "leader": "Sabrina Osborn"
+        },
+        {
+          "song_id": "song_0046",
+          "leader": "Alyrah Rivera"
+        },
+        {
+          "song_id": "song_0107",
+          "leader": "Sabrina Osborn"
+        }
+      ]
+    },
+    {
+      "id": "PMsHzh58bDY",
+      "video_id": "PMsHzh58bDY",
+      "date": "2026-07-12",
+      "title": "Gateway Church Live | “Your Next ‘Yes’” by Pastor Hope Adams | July 12",
+      "url": "https://www.youtube.com/watch?v=PMsHzh58bDY",
+      "source": "youtube",
+      "songs": [
+        {
+          "song_id": "song_0142",
+          "leader": "Daphanie Wright"
+        },
+        {
+          "song_id": "song_0081",
+          "leader": "Rebecca Hart"
+        },
+        {
+          "song_id": "song_0178",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0020",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0109",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0035",
+          "leader": "Hannah Milbrandt"
+        }
+      ]
+    },
+    {
+      "id": "U-Ap830QKIY",
+      "video_id": "U-Ap830QKIY",
+      "date": "2026-07-05",
+      "title": "Gateway Church Live | “An Invitation to Weakness” by Sabrina Osborn | July 5",
+      "url": "https://www.youtube.com/watch?v=U-Ap830QKIY",
+      "source": "youtube",
+      "songs": [
+        {
+          "song_id": "song_0171",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0008",
+          "leader": "Claire Smith"
+        },
+        {
+          "song_id": "song_0038",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0006",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0127",
+          "leader": "Austin Benjamin"
+        }
+      ]
+    },
+    {
+      "id": "h6LiAR3k4pI",
+      "video_id": "h6LiAR3k4pI",
+      "date": "2026-06-28",
+      "title": "Gateway Church Live | “Destination Unknown” by Pastor Mark Jobe | June 28",
+      "url": "https://www.youtube.com/watch?v=h6LiAR3k4pI",
+      "source": "youtube",
+      "songs": [
+        {
+          "song_id": "song_0100",
+          "leader": "Sabrina Osborn"
+        },
+        {
+          "song_id": "song_0009",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0062",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0112",
+          "leader": "Sienna Dudding"
+        },
+        {
+          "song_id": "song_0034",
+          "leader": "Austin Benjamin"
+        }
+      ]
+    },
+    {
+      "id": "aiEVG0s_1Og",
+      "video_id": "aiEVG0s_1Og",
+      "date": "2026-06-21",
+      "title": "Gateway Church Live | “The Roundabout” by Pastor Jelani Lewis | June 21",
+      "url": "https://www.youtube.com/watch?v=aiEVG0s_1Og",
+      "source": "youtube",
+      "songs": [
+        {
+          "song_id": "song_0025",
+          "leader": "Austin Alford"
+        },
+        {
+          "song_id": "song_0198",
+          "leader": "Alyrah Rivera"
+        },
+        {
+          "song_id": "song_0065",
+          "leader": "Hope Adams"
+        },
+        {
+          "song_id": "song_0009",
+          "leader": "Hope Adams"
+        }
+      ]
+    },
+    {
+      "id": "mmXYngmQTyo",
+      "video_id": "mmXYngmQTyo",
+      "date": "2026-06-14",
+      "title": "Gateway Church Live | “This Day Is That Day” by Pastor Daniel Floyd | June 14",
+      "url": "https://www.youtube.com/watch?v=mmXYngmQTyo",
+      "source": "youtube",
+      "songs": [
+        {
+          "song_id": "song_0101",
+          "leader": "Rebecca Hart"
+        },
+        {
+          "song_id": "song_0008",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0058",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0190",
+          "leader": "Sabrina Osborn"
+        },
+        {
+          "song_id": "song_0084",
+          "leader": "Daphanie Wright"
+        },
+        {
+          "song_id": "song_0128",
+          "leader": "Vivian Smith"
+        }
+      ]
+    },
+    {
+      "id": "Is5SneW8JaU",
+      "video_id": "Is5SneW8JaU",
+      "date": "2026-06-07",
+      "title": "Gateway Church Live | “More than Just Directions” by Pastor Daniel Floyd | June 7",
+      "url": "https://www.youtube.com/watch?v=Is5SneW8JaU",
+      "source": "youtube",
+      "songs": [
+        {
+          "song_id": "song_0167",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0018",
+          "leader": "Claire Smith"
+        },
+        {
+          "song_id": "song_0076",
+          "leader": "Claire Smith"
+        },
+        {
+          "song_id": "song_0086",
+          "leader": "Hannah Milbrandt"
+        }
+      ]
+    },
+    {
+      "id": "4h60icXHm8I",
+      "video_id": "4h60icXHm8I",
+      "date": "2026-05-31",
+      "title": "Gateway Church Live | “The Loss Adjuster” by Charlotte Gambill | May 31",
+      "url": "https://www.youtube.com/watch?v=4h60icXHm8I",
+      "source": "youtube",
+      "songs": [
+        {
+          "song_id": "song_0025",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0057",
+          "leader": "Tasha Layton"
+        },
+        {
+          "song_id": "song_0060",
+          "leader": "Tasha Layton"
+        },
+        {
+          "song_id": "song_0195",
+          "leader": "Tasha Layton"
+        },
+        {
+          "song_id": "song_0074",
+          "leader": null
+        },
+        {
+          "song_id": "song_0071",
+          "leader": "Lily Murillo"
+        }
+      ]
+    },
+    {
+      "id": "7L8MFSd4Pns",
+      "video_id": "7L8MFSd4Pns",
+      "date": "2026-05-24",
+      "title": "Gateway Church Live | “A Blueprint for Broken Days” by Pastor Daniel Floyd | May 24",
+      "url": "https://www.youtube.com/watch?v=7L8MFSd4Pns",
+      "source": "youtube",
+      "songs": [
+        {
+          "song_id": "song_0161",
+          "leader": "Sabrina Osborn"
+        },
+        {
+          "song_id": "song_0046",
+          "leader": "Cody Carnes"
+        },
+        {
+          "song_id": "song_0062",
+          "leader": "Cody Carnes"
+        }
+      ]
+    },
+    {
+      "id": "SCHMsZN86uo",
+      "video_id": "SCHMsZN86uo",
+      "date": "2026-05-17",
+      "title": "Gateway Church Live | “Nothing Can Stop the Church of Jesus” by Pastor Joakim Lundqvist | May 17",
+      "url": "https://www.youtube.com/watch?v=SCHMsZN86uo",
+      "source": "youtube",
+      "songs": [
+        {
+          "song_id": "song_0101",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0161",
+          "leader": "Rebecca Hart"
+        },
+        {
+          "song_id": "song_0006",
+          "leader": "Matt Birkenfeld"
+        },
+        {
+          "song_id": "song_0129",
+          "leader": "Matt Birkenfeld"
+        },
+        {
+          "song_id": "song_0022",
+          "leader": "Austin Benjamin"
+        }
+      ]
+    },
+    {
+      "id": "xHcwDMVEoqw",
+      "video_id": "xHcwDMVEoqw",
+      "date": "2026-05-10",
+      "title": "Gateway Church Live | “There’s a ‘So That’ in Your Season” by Pastor Tammie Floyd | May 10",
+      "url": "https://www.youtube.com/watch?v=xHcwDMVEoqw",
+      "source": "youtube",
+      "songs": [
+        {
+          "song_id": "song_0025",
+          "leader": "Matthew Harris"
+        },
+        {
+          "song_id": "song_0060",
+          "leader": "Jessie Harris"
+        },
+        {
+          "song_id": "song_0054",
+          "leader": "Matthew Harris"
+        },
+        {
+          "song_id": "song_0078",
+          "leader": "Jessie Harris"
+        },
+        {
+          "song_id": "song_0009",
+          "leader": "Matthew Harris"
+        },
+        {
+          "song_id": "song_0139",
+          "leader": "Jelani Lewis"
+        },
+        {
+          "song_id": "song_0060",
+          "leader": "Jessie Harris"
+        }
+      ]
+    },
+    {
+      "id": "mV7RfKDjH8A",
+      "video_id": "mV7RfKDjH8A",
+      "date": "2026-05-03",
+      "title": "Gateway Church Live | “A Strategy for Struggle” by Pastor Daniel Floyd | May 3",
+      "url": "https://www.youtube.com/watch?v=mV7RfKDjH8A",
+      "source": "youtube",
+      "songs": [
+        {
+          "song_id": "song_0167",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0080",
+          "leader": "Rebecca Hart"
+        },
+        {
+          "song_id": "song_0062",
+          "leader": "Rebecca Hart"
+        },
+        {
+          "song_id": "song_0033",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0195",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0060",
+          "leader": "Austin Benjamin"
+        }
+      ]
+    },
+    {
+      "id": "BFOmOkxaDfQ",
+      "video_id": "BFOmOkxaDfQ",
+      "date": "2026-04-26",
+      "title": "Gateway Church Live | “Guard Your Peace” by Pastor Daniel Floyd | April 26",
+      "url": "https://www.youtube.com/watch?v=BFOmOkxaDfQ",
+      "source": "youtube",
+      "songs": [
+        {
+          "song_id": "song_0016",
+          "leader": "Sabrina Osborn"
+        },
+        {
+          "song_id": "song_0080",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0039",
+          "leader": "Hope Adams"
+        },
+        {
+          "song_id": "song_0097",
+          "leader": "Hope Adams"
+        },
+        {
+          "song_id": "song_0084",
+          "leader": "Austin Benjamin & Sabrina Osborn"
+        }
+      ]
+    },
+    {
+      "id": "JjEHOcjR5YU",
+      "video_id": "JjEHOcjR5YU",
+      "date": "2026-04-19",
+      "title": "Gateway Church Live | “Choose Wisely” by Pastor Daniel Floyd | April 19",
+      "url": "https://www.youtube.com/watch?v=JjEHOcjR5YU",
+      "source": "youtube",
+      "songs": [
+        {
+          "song_id": "song_0101",
+          "leader": "Matthew Harris"
+        },
+        {
+          "song_id": "song_0135",
+          "leader": "Paul Baloche"
+        },
+        {
+          "song_id": "song_0000",
+          "leader": null
+        },
+        {
+          "song_id": "song_0001",
+          "leader": "Paul Baloche"
+        },
+        {
+          "song_id": "song_0202",
+          "leader": "Paul Baloche"
+        },
+        {
+          "song_id": "song_0069",
+          "leader": "Jessie Harris"
+        },
+        {
+          "song_id": "song_0115",
+          "leader": null
+        },
+        {
+          "song_id": "song_0009",
+          "leader": "Jessie Harris"
+        }
+      ]
+    },
+    {
+      "id": "FdrqBHGiJXk",
+      "video_id": "FdrqBHGiJXk",
+      "date": "2026-04-12",
+      "title": "Gateway Church Live | “Grow Up” by Pastor Chris Hodges | April 12",
+      "url": "https://www.youtube.com/watch?v=FdrqBHGiJXk",
+      "source": "youtube",
+      "songs": [
+        {
+          "song_id": "song_0101",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0158",
+          "leader": "Matt Birkenfeld"
+        },
+        {
+          "song_id": "song_0031",
+          "leader": "Matt Birkenfeld"
+        },
+        {
+          "song_id": "song_0031",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0157",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0045",
+          "leader": "Susie Kim"
+        }
+      ]
+    },
+    {
+      "id": "KLnhLk5BUK8",
+      "video_id": "KLnhLk5BUK8",
+      "date": "2026-04-05",
+      "title": "Gateway Church Live | “The Place Jesus Meets Us” by Pastor Daniel Floyd | April 4–5",
+      "url": "https://www.youtube.com/watch?v=KLnhLk5BUK8",
+      "source": "youtube",
+      "songs": [
+        {
+          "song_id": "song_0142",
+          "leader": "Cody Carnes"
+        },
+        {
+          "song_id": "song_0130",
+          "leader": "Cody Carnes"
+        },
+        {
+          "song_id": "song_0109",
+          "leader": "Cody Carnes"
+        },
+        {
+          "song_id": "song_0189",
+          "leader": "Kari Jobe Carnes"
+        }
+      ]
+    },
+    {
+      "id": "-tlDqsGg7vw",
+      "video_id": "-tlDqsGg7vw",
+      "date": "2026-03-29",
+      "title": "Gateway Church Live | “Do You Understand What I Have Done for You?” by Daniel Floyd | March 28–29",
+      "url": "https://www.youtube.com/watch?v=-tlDqsGg7vw",
+      "source": "youtube",
+      "songs": [
+        {
+          "song_id": "song_0025",
+          "leader": "Matt Birkenfeld"
+        },
+        {
+          "song_id": "song_0081",
+          "leader": "Rebecca Hart"
+        },
+        {
+          "song_id": "song_0069",
+          "leader": "Hope Adams"
+        },
+        {
+          "song_id": "song_0190",
+          "leader": "Hope Adams"
+        },
+        {
+          "song_id": "song_0084",
+          "leader": "Rebecca Hart"
+        },
+        {
+          "song_id": "song_0172",
+          "leader": null
+        },
+        {
+          "song_id": "song_0028",
+          "leader": null
+        },
+        {
+          "song_id": "song_0085",
+          "leader": "Hope Adams"
+        }
+      ]
+    },
+    {
+      "id": "UEASPj4Zm68",
+      "video_id": "UEASPj4Zm68",
+      "date": "2026-03-22",
+      "title": "Gateway Church Live | “Jesus Asked: ‘Who Touched My Garment?’” by Pastor Mark Jobe | March 21–22",
+      "url": "https://www.youtube.com/watch?v=UEASPj4Zm68",
+      "source": "youtube",
+      "songs": [
+        {
+          "song_id": "song_0100",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0076",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0166",
+          "leader": "Lily Murillo"
+        },
+        {
+          "song_id": "song_0026",
+          "leader": "Claire Smith"
+        },
+        {
+          "song_id": "song_0121",
+          "leader": null
+        },
+        {
+          "song_id": "song_0021",
+          "leader": "Lily Murillo"
+        }
+      ]
+    },
+    {
+      "id": "stzfgYQmoVU",
+      "video_id": "stzfgYQmoVU",
+      "date": "2026-03-08",
+      "title": "Gateway Church Live | “Which of You Does Not Leave the Ninety-Nine?” by Pastor Daniel Floyd | Mar. 8",
+      "url": "https://www.youtube.com/watch?v=stzfgYQmoVU",
+      "source": "youtube",
+      "songs": [
+        {
+          "song_id": "song_0025",
+          "leader": "Matt Birkenfeld"
+        },
+        {
+          "song_id": "song_0064",
+          "leader": "Matt Birkenfeld"
+        },
+        {
+          "song_id": "song_0143",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0007",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0195",
+          "leader": "Sabrina Osborn"
+        },
+        {
+          "song_id": "song_0022",
+          "leader": "Vivian Smith"
+        }
+      ]
+    },
+    {
+      "id": "493cwNk43zY",
+      "video_id": "493cwNk43zY",
+      "date": "2026-03-01",
+      "title": "Gateway Church Live | “Who Do You Say I Am?” by Pastor Daniel Floyd | March 1",
+      "url": "https://www.youtube.com/watch?v=493cwNk43zY",
+      "source": "youtube",
+      "songs": [
+        {
+          "song_id": "song_0156",
+          "leader": "Christine D'Clario"
+        },
+        {
+          "song_id": "song_0046",
+          "leader": "Mark Harris"
+        },
+        {
+          "song_id": "song_0054",
+          "leader": "Mark Harris"
+        },
+        {
+          "song_id": "song_0186",
+          "leader": "Christine D'Clario"
+        },
+        {
+          "song_id": "song_0029",
+          "leader": null
+        }
+      ]
+    },
+    {
+      "id": "5SyOOhz1t7Q",
+      "video_id": "5SyOOhz1t7Q",
+      "date": "2026-02-22",
+      "title": "Gateway Church Live | “Do You See What I See?” by Pastor Jelani Lewis | February 21–22",
+      "url": "https://www.youtube.com/watch?v=5SyOOhz1t7Q",
+      "source": "youtube",
+      "songs": [
+        {
+          "song_id": "song_0016",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0158",
+          "leader": "Tasha Layton"
+        },
+        {
+          "song_id": "song_0158",
+          "leader": "Tasha Layton"
+        },
+        {
+          "song_id": "song_0059",
+          "leader": "Tasha Layton"
+        },
+        {
+          "song_id": "song_0062",
+          "leader": "Jessie Harris"
+        },
+        {
+          "song_id": "song_0008",
+          "leader": "Jessie Harris"
+        },
+        {
+          "song_id": "song_0168",
+          "leader": null
+        }
+      ]
+    },
+    {
+      "id": "qDdu5hZ7icI",
+      "video_id": "qDdu5hZ7icI",
+      "date": "2026-02-08",
+      "title": "Gateway Church Live | “Holding on Is Hurting You” by Pastor Daniel Floyd | February 7–8",
+      "url": "https://www.youtube.com/watch?v=qDdu5hZ7icI",
+      "source": "youtube",
+      "songs": [
+        {
+          "song_id": "song_0183",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0126",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0157",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0114",
+          "leader": null
+        },
+        {
+          "song_id": "song_0150",
+          "leader": "Austin Benjamin"
+        },
+        {
+          "song_id": "song_0151",
+          "leader": null
+        },
+        {
+          "song_id": "song_0150",
+          "leader": "Austin Benjamin"
+        }
+      ]
+    }
+  ]
+}
