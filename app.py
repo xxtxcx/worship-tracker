@@ -55,73 +55,33 @@ def index():
 
 @app.get("/api/data")
 def api_data():
-    """Завантажити всі дані: церкви + служіння + пісні (денормалізація через aggregation)"""
+    """Завантажити всі дані: церкви + служіння + пісні"""
     churches = get_churches()
+
+    # Кешуємо всі пісні в пам'яті щоб не робити N запитів
+    songs_by_id = {song["id"]: song for song in db.songs.find()}
 
     services = {}
     for church in churches:
         church_id = church["id"]
-        # Денормалізувати через MongoDB aggregation pipeline
-        pipeline = [
-            {"$match": {"church_id": church_id}},
-            {"$sort": {"date": -1}},
-            {"$lookup": {
-                "from": "songs",
-                "localField": "songs.song_id",
-                "foreignField": "id",
-                "as": "song_docs"
-            }},
-            {"$addFields": {
-                "songs": {
-                    "$map": {
-                        "input": "$songs",
-                        "as": "song_ref",
-                        "in": {
-                            "title": {
-                                "$let": {
-                                    "vars": [{
-                                        "song_doc": {
-                                            "$arrayElemAt": [
-                                                {"$filter": {
-                                                    "input": "$song_docs",
-                                                    "as": "doc",
-                                                    "cond": {"$eq": ["$$doc.id", "$$song_ref.song_id"]}
-                                                }},
-                                                0
-                                            ]
-                                        }
-                                    }],
-                                    "in": {"$ifNull": ["$$song_doc.title", "$$song_ref.title"]}
-                                }
-                            },
-                            "artist": {
-                                "$let": {
-                                    "vars": [{
-                                        "song_doc": {
-                                            "$arrayElemAt": [
-                                                {"$filter": {
-                                                    "input": "$song_docs",
-                                                    "as": "doc",
-                                                    "cond": {"$eq": ["$$doc.id", "$$song_ref.song_id"]}
-                                                }},
-                                                0
-                                            ]
-                                        }
-                                    }],
-                                    "in": {"$ifNull": ["$$song_doc.artist", None]}
-                                }
-                            },
-                            "leader": "$$song_ref.leader"
-                        }
-                    }
-                }
-            }},
-            {"$project": {"song_docs": 0}}
-        ]
+        svc_list = list(db.services.find({"church_id": church_id}).sort("date", -1))
 
-        svc_list = list(db.services.aggregate(pipeline))
+        # Денормалізуємо локально в Python (тепер O(1) дивітки)
         for svc in svc_list:
             svc["_id"] = str(svc["_id"])
+            songs = []
+            for song_ref in svc.get("songs", []):
+                if "song_id" in song_ref:
+                    song_data = songs_by_id.get(song_ref["song_id"])
+                    if song_data:
+                        songs.append({
+                            "title": song_data.get("title"),
+                            "artist": song_data.get("artist"),
+                            "leader": song_ref.get("leader"),
+                        })
+                else:
+                    songs.append(song_ref)
+            svc["songs"] = songs
         services[church_id] = svc_list
 
     return jsonify({
