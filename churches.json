@@ -86,5 +86,15 @@
     "auto": true,
     "parser": "captions",
     "months": 6
+  },
+  {
+    "id": "elevation",
+    "name": "Elevation Church",
+    "location": "Charlotte, North Carolina, USA",
+    "pastor": "Steven Furtick",
+    "channel": "https://www.youtube.com/@elevationchurch",
+    "auto": true,
+    "parser": "captions",
+    "months": 6
   }
 ]
