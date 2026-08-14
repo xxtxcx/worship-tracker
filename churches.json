@@ -56,5 +56,15 @@
       "Наталя Вергун",
       "Софія Федорчук"
     ]
+  },
+  {
+    "id": "rockcity",
+    "name": "Rock City Church",
+    "location": "Columbus, Ohio, США",
+    "pastor": "Chad Fisher",
+    "channel": "https://www.youtube.com/@RockCityChurchChannel",
+    "auto": true,
+    "parser": "captions",
+    "months": 6
   }
 ]
