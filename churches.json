@@ -66,5 +66,25 @@
     "auto": true,
     "parser": "captions",
     "months": 6
+  },
+  {
+    "id": "planetshakers",
+    "name": "Planetshakers",
+    "location": "Melbourne, Australia",
+    "pastor": "Jenn Johnson",
+    "channel": "https://www.youtube.com/@PSChurch-bn4ur",
+    "auto": true,
+    "parser": "captions",
+    "months": 6
+  },
+  {
+    "id": "lakewood",
+    "name": "Lakewood Church",
+    "location": "Houston, USA",
+    "pastor": "Joel Osteen",
+    "channel": "https://www.youtube.com/@JoelOsteen",
+    "auto": true,
+    "parser": "captions",
+    "months": 6
   }
 ]
