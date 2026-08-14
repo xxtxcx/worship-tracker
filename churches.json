@@ -9,15 +9,6 @@
     "parser": "gateway"
   },
   {
-    "id": "alfa",
-    "name": "Alfa Church",
-    "location": "Київ",
-    "pastor": "Дмитро Бодю",
-    "channel": "https://www.youtube.com/channel/UCB7UGYsuCIaN5AoBQJs2NLA/streams",
-    "auto": true,
-    "parser": "alfa"
-  },
-  {
     "id": "bethel",
     "name": "Bethel Church",
     "location": "Redding, США",
@@ -28,12 +19,44 @@
     "months": 2
   },
   {
-    "id": "ecclesia",
-    "name": "Ecclesia Church",
-    "location": "Київ",
-    "pastor": "Олег Богомаз",
-    "channel": "https://www.youtube.com/@ECCLESIA2024",
-    "auto": false
+    "id": "rockcity",
+    "name": "Rock City Church",
+    "location": "Columbus, Ohio, США",
+    "pastor": "Chad Fisher",
+    "channel": "https://www.youtube.com/@RockCityChurchChannel",
+    "auto": true,
+    "parser": "captions",
+    "months": 6
+  },
+  {
+    "id": "lakewood",
+    "name": "Lakewood Church",
+    "location": "Houston, USA",
+    "pastor": "Joel Osteen",
+    "channel": "https://www.youtube.com/@JoelOsteen",
+    "auto": true,
+    "parser": "captions",
+    "months": 6
+  },
+  {
+    "id": "elevation",
+    "name": "Elevation Church",
+    "location": "Charlotte, North Carolina, USA",
+    "pastor": "Steven Furtick",
+    "channel": "https://www.youtube.com/@elevationchurch",
+    "auto": true,
+    "parser": "captions",
+    "months": 6
+  },
+  {
+    "id": "planetshakers",
+    "name": "Planetshakers",
+    "location": "Melbourne, Australia",
+    "pastor": "Jenn Johnson",
+    "channel": "https://www.youtube.com/@PSChurch-bn4ur",
+    "auto": true,
+    "parser": "captions",
+    "months": 6
   },
   {
     "id": "dyouth",
@@ -58,43 +81,20 @@
     ]
   },
   {
-    "id": "rockcity",
-    "name": "Rock City Church",
-    "location": "Columbus, Ohio, США",
-    "pastor": "Chad Fisher",
-    "channel": "https://www.youtube.com/@RockCityChurchChannel",
+    "id": "alfa",
+    "name": "Alfa Church",
+    "location": "Київ",
+    "pastor": "Дмитро Бодю",
+    "channel": "https://www.youtube.com/channel/UCB7UGYsuCIaN5AoBQJs2NLA/streams",
     "auto": true,
-    "parser": "captions",
-    "months": 6
+    "parser": "alfa"
   },
   {
-    "id": "planetshakers",
-    "name": "Planetshakers",
-    "location": "Melbourne, Australia",
-    "pastor": "Jenn Johnson",
-    "channel": "https://www.youtube.com/@PSChurch-bn4ur",
-    "auto": true,
-    "parser": "captions",
-    "months": 6
-  },
-  {
-    "id": "lakewood",
-    "name": "Lakewood Church",
-    "location": "Houston, USA",
-    "pastor": "Joel Osteen",
-    "channel": "https://www.youtube.com/@JoelOsteen",
-    "auto": true,
-    "parser": "captions",
-    "months": 6
-  },
-  {
-    "id": "elevation",
-    "name": "Elevation Church",
-    "location": "Charlotte, North Carolina, USA",
-    "pastor": "Steven Furtick",
-    "channel": "https://www.youtube.com/@elevationchurch",
-    "auto": true,
-    "parser": "captions",
-    "months": 6
+    "id": "ecclesia",
+    "name": "Ecclesia Church",
+    "location": "Київ",
+    "pastor": "Олег Богомаз",
+    "channel": "https://www.youtube.com/@ECCLESIA2024",
+    "auto": false
   }
 ]
