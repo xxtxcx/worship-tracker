@@ -1,6 +1,24 @@
 {
   "services": [
     {
+      "id": "dFMKtNeCFmQ",
+      "video_id": "dFMKtNeCFmQ",
+      "date": "2026-08-16",
+      "title": "Bethel Church Service | Hayley Braun Sermon | Worship with Peter Mattis, Aubree Archibeck",
+      "url": "https://www.youtube.com/watch?v=dFMKtNeCFmQ",
+      "source": "youtube",
+      "songs": [
+        {
+          "title": "Rest On Us",
+          "leader": ""
+        },
+        {
+          "title": "Who Is Like You Lord",
+          "leader": ""
+        }
+      ]
+    },
+    {
       "id": "pMuKHSHZvW4",
       "video_id": "pMuKHSHZvW4",
       "date": "2026-08-09",

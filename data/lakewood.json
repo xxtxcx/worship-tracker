@@ -1,6 +1,51 @@
 {
   "services": [
     {
+      "id": "-nxenGLXDB4",
+      "video_id": "-nxenGLXDB4",
+      "date": "2026-08-17",
+      "title": "The Courage to Get Well | Joel Osteen",
+      "url": "https://www.youtube.com/watch?v=-nxenGLXDB4",
+      "source": "youtube",
+      "songs": []
+    },
+    {
+      "id": "xmQq02fGjYs",
+      "video_id": "xmQq02fGjYs",
+      "date": "2026-08-16",
+      "title": "Joel Osteen | Lakewood Church Service | Favor That Can Be Seen",
+      "url": "https://www.youtube.com/watch?v=xmQq02fGjYs",
+      "source": "youtube",
+      "songs": []
+    },
+    {
+      "id": "qHiRRJynVyU",
+      "video_id": "qHiRRJynVyU",
+      "date": "2026-08-15",
+      "title": "God Waits On Purpose | Joel Osteen",
+      "url": "https://www.youtube.com/watch?v=qHiRRJynVyU",
+      "source": "youtube",
+      "songs": []
+    },
+    {
+      "id": "SWdU2XZiDiM",
+      "video_id": "SWdU2XZiDiM",
+      "date": "2026-08-14",
+      "title": "Blessing On Your Life | Joel Osteen",
+      "url": "https://www.youtube.com/watch?v=SWdU2XZiDiM",
+      "source": "youtube",
+      "songs": []
+    },
+    {
+      "id": "UZibuT55_v4",
+      "video_id": "UZibuT55_v4",
+      "date": "2026-08-14",
+      "title": "Lift Up Your Eyes | Victoria Osteen",
+      "url": "https://www.youtube.com/watch?v=UZibuT55_v4",
+      "source": "youtube",
+      "songs": []
+    },
+    {
       "id": "wgh19XNXVGA",
       "video_id": "wgh19XNXVGA",
       "date": "2026-08-13",
@@ -22,7 +67,7 @@
       "id": "PqOtfv-ZHPk",
       "video_id": "PqOtfv-ZHPk",
       "date": "2026-08-12",
-      "title": "Payback Is Coming | Joel Osteen",
+      "title": "God Controls Your Destiny | Joel Osteen",
       "url": "https://www.youtube.com/watch?v=PqOtfv-ZHPk",
       "source": "youtube",
       "songs": []
